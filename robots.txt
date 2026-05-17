@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abhiseky93.github.io/CognitaSolutions.github.io/sitemap.xml
